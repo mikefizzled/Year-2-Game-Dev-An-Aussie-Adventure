@@ -26,13 +26,14 @@ The game was designed to be family-friendly and focused on delivering a compact 
 - Interaction minigame using trigger colliders and button prompts  
 - Dynamic UI and persistent progress tracking via singleton pattern  
 - Scene transitions for menus and story progression  
-- Integrated ambient audio and environmental particle systems  
+- Integrated ambient audio and environmental particle systems
+- Simple auto-save and load system using JSON
 
 ---
 
 ## Development
 
-- **Engine:** Unity 2022
+- **Engine:** Unity 2022.3
 - **Language:** C#  
 - **Tools:** Blender, GIMP, Audacity  
 - **Custom Assets:** Low-poly animal models, basic rigs and animations, and UI elements created in Blender and GIMP  
@@ -44,16 +45,17 @@ Environmental assets were supplemented using *Broken Vector’s Low Poly Packs* 
 ## Documentation
 
 Additional project materials are included in the repository:
--  [An-Aussie-Adventure_Design-Document.pdf](/An%20Aussie%20Adventure%20-%20Design%20Document%20.pdf) — Initial concept and planning
--  [An-Aussie-Adventure_Progress-Update.pdf](/An%20Aussie%20Adventure%20-%20Progress%20Report.pdfAn-Aussie-Adventure_Progress-Update.pdf) — Implementation reflection and progress report
+-  [An-Aussie-Adventure_Design-Document.pdf](An%20Aussie%20Adventure%20-%20Design%20Document.pdf) — Initial concept and planning
+-  [An-Aussie-Adventure_Progress-Update.pdf](An%20Aussie%20Adventure%20-%20Progress%20Report.pdf) — Implementation reflection and progress report
 -  [Video Link — University Submission](https://www.youtube.com/watch?v=JxBjwgRBJCw)— Video demonstration and breakdown
-> *Note:* The university YouTube account may close without notice. The videos are retained and could be reuploaded upon request.
+> Note: The university YouTube account may close without notice. The videos are retained and could be reuploaded upon request.
 
 ---
 
 ## Project Status
 
-This repository represents the final academic version of *An Aussie Adventure*, tidied and verified in the latest Unity 2022.3 LTS release.  
+This repository represents the final academic version of *An Aussie Adventure*, tidied and verified in the latest Unity 2022.3 LTS release. 
+Most planned systems were implemented, though several design ideas and stretch goals remain incomplete.  
 Further development may continue in a separate repository.
 
 ---
