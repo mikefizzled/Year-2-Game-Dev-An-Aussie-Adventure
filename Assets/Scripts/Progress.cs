@@ -28,8 +28,11 @@ public class Progress : MonoBehaviour
     public GameObject MoneyBag;
 
     // SET TO FALSE WHEN THE MONEY UNLOCK IS INCORPORATED
-    public bool Shapeshifter = true;
+    public bool Shapeshifter = false;
 
+    public bool Cave = false;
+
+    public bool Thylacine = false;
     // Start is called before the first frame update
     void Start()
     {
